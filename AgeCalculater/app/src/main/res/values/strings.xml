@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Age Calculater</string>
+<string name="sum">Calculate</string>
+    <string name="clear">clear</string>
+    <string name="first">Enter First Values</string>
+<string name="second">Enter Second Values</string>
+    <string name="Text">Today\'s Date </string>
+    <string name="text1"></string>
+    <string name="about_dev"> </string>
+    <string name="share"></string>
+    <string name="sub1">Notification Bar Icon</string>
+    <string name="sub2">Save Birthdate</string>
+    <string name="sub3">Select and save Date Formate</string>
+</resources>
